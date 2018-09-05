@@ -5,7 +5,7 @@ import re
 
 # Styles and scripting for the page
 main_page_head = '''
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="en">
 <head>
     <meta charset="utf-8">

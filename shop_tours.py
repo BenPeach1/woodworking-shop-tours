@@ -34,4 +34,3 @@ crafted_workshop = media.Video("Johnny Brooke",
 aryVideos = [fix_this_build_that,wood_whisperer,jay_bates,frank_howarth,april_wilkerson,crafted_workshop]
 
 fresh_tomatoes.open_movies_page(aryVideos)
-

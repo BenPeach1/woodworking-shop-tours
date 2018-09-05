@@ -1,7 +1,7 @@
 import webbrowser
 
 class Video():
-    
+
     def __init__(self,creator, video_description, creator_logo, trailer_youtube_url):
         self.creator = creator
         self.description = video_description
